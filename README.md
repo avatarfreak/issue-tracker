@@ -58,7 +58,6 @@
 │   ├── 1_unit-tests.js
 │   └── 2_functional-tests.js
 └── views
-    ├── index.htm
     ├── index.html
     └── issue.html
 ```
