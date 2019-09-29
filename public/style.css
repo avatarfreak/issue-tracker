@@ -1,0 +1,42 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  padding: 10px;
+  background: #201616e8;
+}
+
+.issue {
+  margin: 20px;
+  padding: 5px;
+  border: 2px solid rgb(83, 82, 82);
+  background: #376f40d4;
+}
+.text-info {
+  color: #2fbd18 !important;
+}
+.closed {
+  background-color: #241e1ee6;
+}
+
+.id {
+  font-size: 0.85em;
+  background: blanchedalmond;
+}
+#submitNewIssue {
+  background-color: tan;
+  box-shadow: 2px 1px 1px 4px gray;
+}
+#update {
+  background: teal;
+}
+a {
+  color: white;
+  font-weight: bolder;
+}
+.row {
+  letter-spacing: 2px;
+  background: rgb(36, 32, 32);
+}
