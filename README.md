@@ -65,7 +65,7 @@
 
 ### Project Demo:
 
-- [FCC-Issue-Tracker](https://avatarfreak-fcc-issue-tracker.glitch.me/)
+- [FCC-Issue-Tracker](https://avatarfreak-issue-tracker.glitch.me)
 
 ### Author:
 
